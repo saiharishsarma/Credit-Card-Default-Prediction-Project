@@ -1,8 +1,7 @@
 # Credit-Card-Default-Prediction-Project
 
 Project Statement:
-This project is aimed at predicting the customer's default payments in Taiwan.From the perspective of the risk management,the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or non credible clients. We can use the K-S Chart to evaluate which customers will default on their credit card payments.
-
+This project is aimed at predicting the customer's default payments in Taiwan.From the perspective of the risk management,the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or non credible clients.
 This dataset consists of 30000 rows and 25 columns which contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
 ID: ID of each client
